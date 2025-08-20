@@ -2,6 +2,7 @@
 
 Welcome to the Figured Intern Experience application! This is a Laravel application built with Laravel Sail and Prism, designed for our software development graduate event.
 
+![alt text](image.png)
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
